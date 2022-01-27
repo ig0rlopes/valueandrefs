@@ -1,0 +1,16 @@
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.exe
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.deps.json
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.runtimeconfig.json
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.runtimeconfig.dev.json
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.dll
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\ref\VSCODE.dll
+C:\Users\IGUR\Documents\VSCODE\bin\Debug\net5.0\VSCODE.pdb
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.csproj.AssemblyReference.cache
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.AssemblyInfoInputs.cache
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.AssemblyInfo.cs
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.csproj.CoreCompileInputs.cache
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.dll
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\ref\VSCODE.dll
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.pdb
+C:\Users\IGUR\Documents\VSCODE\obj\Debug\net5.0\VSCODE.genruntimeconfig.cache
